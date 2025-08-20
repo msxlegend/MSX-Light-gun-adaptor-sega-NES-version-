@@ -30,7 +30,8 @@ The adapters for Sega or Nintendo laser guns are ideal for playing shooting game
 ## More info here
 https://www.msx.org/wiki/Plus-X_Terminator_Laser_Programming#Compatible_games  
 https://www.msx.org/wiki/MHT_Ingenieros_Gun-Stick#Compatible_games  
-
-
-## Note!
+  
+  
+  
+> [!NOTE]
 > Light guns works only with a CRT monitor at a distance of less than one meter.
