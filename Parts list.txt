@@ -1,0 +1,8 @@
+NES version:
+1x DSUB-9 FEMALE
+1x NES PORT
+
+
+MASTER SYSTEM version:
+1x DSUB-9 FEMALE
+1x DSUB-9 MALE
